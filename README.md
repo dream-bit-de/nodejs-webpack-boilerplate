@@ -9,9 +9,9 @@ Just use `npm install` or `yarn install`, it's your choice.
 To use this boilerplate you'll have to clone this repo and copy the files you need to your new porject.
 You will find all informations in the files.
 
-Use: `npm run webpackWatch` to start watching your files. You can change that name, just go ahead and do it in the package.json.
-Use: `npm start` to start `nodemon`, this will reload your entry point, everytime the watched files change. Mor information: https://nodemon.io/
-Use: `npm build` to run the build-process.
+- Use: `npm run webpackWatch` to start watching your files. You can change that name, just go ahead and do it in the package.json.
+- Use: `npm start` to start `nodemon`, this will reload your entry point, everytime the watched files change. Mor information: https://nodemon.io/
+- Use: `npm build` to run the build-process.
 
 If you want to extend the `webpack-configs` you have to look into the specific configurations of webpack: https://webpack.js.org/configuration/
 Here is the config as shown on the website of webpack:
