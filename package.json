@@ -9,6 +9,7 @@
     "start": "npx nodemon ./dist/app.js",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing \""
   },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dream-bit-de/nodejs-webpack-boilerplate.git"
