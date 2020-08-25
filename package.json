@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-webpack-boilerplate",
+  "name": "@dream-bit-de/nodejs-webpack-boilerplate",
   "version": "1.0.0",
   "description": "The only boilerplate you will need for nodejs with webpack.",
   "main": "index.js",
