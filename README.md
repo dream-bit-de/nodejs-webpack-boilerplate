@@ -2,7 +2,6 @@
   <a href="https://nodejs.org/">
     <img alt="Gatsby" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" width="75" />
   </a>
-  <b style="font-size:1.5rem;">+</b>
   <a href="https://webpack.js.org">
     <img alt="Gatsby" src="https://raw.githubusercontent.com/webpack/media/05bb13961020d58eb6c4cad1c45e3299a6b455c7/logo/logo-on-white-bg.svg" width="120" />
   </a>
