@@ -25,7 +25,7 @@ Just use `npm install` or `yarn install`, it's your choice.
 
 ## :tada: Usage
 
-To use this boilerplate you'll have to clone this repo and copy the files you need to your new porject.
+To use this boilerplate you'll have to clone this repo and copy the files you need to your new project.
 You will find all informations in the files.
 
 - Use: `npm run webpackWatch` to start watching your files. You can change that name, just go ahead and do it in the package.json.
@@ -191,16 +191,6 @@ Great! Please make sure to check out and understand what is written in the follo
 
 - CODE-OF-CONDUCT.md
 - CONTRIBUTING.md
-
-## :heart_eyes: Thank you!
-
-We want to thank everyone contributing on the following projects:
-
-- NodeJs: https://nodejs.org/
-- webpack: https://webpack.js.org
-- shields.io: https://shields.io/
-
-We :heart: you!
 
 ## :blush: About Dream-bit
 
