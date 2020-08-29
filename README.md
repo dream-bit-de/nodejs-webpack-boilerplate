@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://nodejs.org/">
-    <img alt="Gatsby" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" width="60" />
+    <img alt="Gatsby" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" width="75" />
   </a>
   <a href="https://webpack.js.org">
-    <img alt="Gatsby" src="https://raw.githubusercontent.com/webpack/media/05bb13961020d58eb6c4cad1c45e3299a6b455c7/logo/logo-on-white-bg.svg" width="60" />
+    <img alt="Gatsby" src="https://raw.githubusercontent.com/webpack/media/05bb13961020d58eb6c4cad1c45e3299a6b455c7/logo/logo-on-white-bg.svg" width="120" />
   </a>
 </p>
 <h1 align="center">
@@ -11,8 +11,8 @@
 </h1>
 
 <p align="center">
-  <a href="http://makeapullrequest.com">
-      <img alt="Gatsby" src="https://img.shields.io/badge/PRs-welcome-brightgreen"  width="60" />
+  <a href="http://makeapullrequest.com">  
+      <img alt="Gatsby" src="https://img.shields.io/badge/PRs-welcome-brightgreen" />
   </a>
 </p>
 
