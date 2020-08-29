@@ -184,7 +184,7 @@ module.exports = {
   /* Advanced configuration (click to show) */
 ```
 
-## :star: contributing
+## :star: Contributing
 
 You want to help us, and join the Dream-bit Community?
 Great! Please make sure to check out and understand what is written in the following files:
