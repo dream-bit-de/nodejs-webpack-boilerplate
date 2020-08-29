@@ -1,11 +1,30 @@
-# nodejs-webpack-boilerplate
+<p align="center">
+  <a href="https://nodejs.org/">
+    <img alt="Gatsby" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" width="60" />
+  </a>
+  <a href="https://webpack.js.org">
+    <img alt="Gatsby" src="https://raw.githubusercontent.com/webpack/media/05bb13961020d58eb6c4cad1c45e3299a6b455c7/logo/logo-on-white-bg.svg" width="60" />
+  </a>
+</p>
+<h1 align="center">
+  nodejs-webpack-boilerplate
+</h1>
+
+<p align="center">
+  <a href="http://makeapullrequest.com">
+      <img alt="Gatsby" src="https://img.shields.io/badge/PRs-welcome-brightgreen"  width="60" />
+  </a>
+</p>
+
 The only boilerplate you will need for nodejs with webpack.
 This is intendend to give your next project a starting hand.
 
-## Install
+## :mortar_board: Install
+
 Just use `npm install` or `yarn install`, it's your choice.
 
-## Usage
+## :tada: Usage
+
 To use this boilerplate you'll have to clone this repo and copy the files you need to your new porject.
 You will find all informations in the files.
 
@@ -15,6 +34,7 @@ You will find all informations in the files.
 
 If you want to extend the `webpack-configs` you have to look into the specific configurations of webpack: https://webpack.js.org/configuration/
 Here is the config as shown on the website of webpack:
+
 ```javascript
 const path = require('path');
 
@@ -163,3 +183,21 @@ module.exports = {
   // list of additional plugins
   /* Advanced configuration (click to show) */
 ```
+
+## :heart_eyes: Thank you!
+
+We want to thank everyone contributing on the following projects:
+
+- NodeJs: https://nodejs.org/
+- webpack: https://webpack.js.org
+- shields.io: https://shields.io/
+
+We :heart: you!
+
+## :blush: About Dream-bit
+
+At dream-bit dreams become software!
+We encourage people to do good things with software and bring humanity forward.
+You can be a part of us by contributing or joining the community at https://dream-bit.de
+
+Develop software with your :heart: as your :brain:.
